@@ -1,5 +1,5 @@
 import React from 'react';
-import { QueryParams, Query } from '../../addon/decorator';
+import { QueryParams, Query } from '../../addon';
 
 import UserAvatar from '../UserAvatar';
 

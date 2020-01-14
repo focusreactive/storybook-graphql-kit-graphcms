@@ -1,4 +1,4 @@
-import { Query } from '../../addon/decorator';
+import { Query } from '../../addon';
 
 export default {
   title: 'with getData',

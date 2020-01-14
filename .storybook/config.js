@@ -1,7 +1,7 @@
 import { configure, addDecorator, addParameters } from '@storybook/react';
 import { create } from '@storybook/theming';
 import '@storybook/addon-console';
-import { withGraphCMS } from '../addon/decorator';
+import { withGraphCMS } from '../addon';
 import brandImage from '../docs/logo.png';
 
 addDecorator(withGraphCMS({ endpoint: process.env.CMS_ENDPOINT, token: process.env.CMS_TOKEN, projectId: process.env.PROJECT_ID, stage: process.env.STAGE }))

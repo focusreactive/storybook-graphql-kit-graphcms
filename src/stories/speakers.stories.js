@@ -1,4 +1,4 @@
-import { Query } from '../../addon/decorator';
+import { Query } from '../../addon';
 import query from '../speakers-query'
 
 export default {

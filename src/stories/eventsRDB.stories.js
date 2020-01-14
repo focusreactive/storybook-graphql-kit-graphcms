@@ -1,4 +1,4 @@
-import { Query } from '../../addon/decorator';
+import { Query } from '../../addon';
 
 export default {
   title: 'Events/React Day Berlin',
