@@ -176,7 +176,7 @@ It does totally the same but in more compact way, especially if you only want to
 
 We created a simple tool based on this addon to extend GraphCMS App for our content editors:
 
-https://usulpro.github.io/storybook-addon-graphcms/
+https://focusreactive.github.io/storybook-graphql-kit/
 
 Here we writing queries to control what exact entries should be listed in each folder. Editors can use input fields to find the specific entry. It's easy to display all needed information in front of user even if it contains nested fields. Each entry has a link to the GraphCMS app to start editing it.
 
