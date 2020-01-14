@@ -1,10 +1,12 @@
-# Storybook Addon GraphCMS
+# Storybook Addon GraphCMS [![npm version](https://badge.fury.io/js/%40focus-reactive%2Fstorybook-addon-graphcms.svg)](https://badge.fury.io/js/%40focus-reactive%2Fstorybook-addon-graphcms)
 
 [![Storybook](https://raw.githubusercontent.com/focusreactive/storybook-addon-graphcms/master/docs/storybook-logo.png)](https://storybook.js.org/)
 [![GraphQL](https://raw.githubusercontent.com/focusreactive/storybook-addon-graphcms/master/docs/graphql.png)](https://graphql.org/)
 [![GraphCMS](https://raw.githubusercontent.com/focusreactive/storybook-addon-graphcms/master/docs/graphcms-logo.png)](https://graphcms.com/)
 
 Write queries in the code, preview GraphQL data in a comfy way, pass response to your components
+
+This addon is an extension of [Storybook-GraphQL-Kit](https://github.com/focusreactive/storybook-graphql-kit)
 
 Read the [post on medium](https://medium.com/@focus-reactive/storybook-addon-graphcms-9d47e30371df)
 
